@@ -16,7 +16,7 @@ The purpose of this analysis is to convince W. Avery, a famous investor and pass
 - Over a twelve month period we gathered that there were more reports of temperature being above 65°F
   - This was gathered from the station with the highest number of temperature observations.
 ![alt_text](https://github.com/nguyenauloi/surfs_up/blob/main/imgs/precipitation.PNG "precipitation.png")
-  - Over a twelve month period we can see that the precipitation score is mostly around 1-2, with spikes here and there to indicate wetter-than-usual conditions. Seeing an even distribution of these spikes we can argue that these are part of the normal tropical weather pattern.
+- Over a twelve month period we can see that the precipitation score is mostly around 1-2, with spikes here and there to indicate wetter-than-usual conditions. Seeing an even distribution of these spikes we can argue that these are part of the normal tropical weather pattern.
 
 ## Summary 
 
